@@ -1,19 +1,25 @@
-# :earth_americas: GDP dashboard template
+# 🥦 Food Market App
 
-A simple Streamlit app showing the GDP of different countries in the world.
+A simple real-time trading simulation app built with **Streamlit**, where users can view and track the prices of various Nigerian food items like onion, plantain, banana, tomatoes, sugarcane, yam, rice, beans, gari, orange, mango, cucumber, pineapple, etc.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+Prices update every **1 minute** to simulate a dynamic market environment. Ideal for testing strategies or learning how price arbitrage works in a fun and engaging way.
 
-### How to run it on your own machine
+---
 
-1. Install the requirements
+## 🚀 Features
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+- 📈 Real-time simulated price updates
+- 🥬 Multiple food items included
+- ⏱️ Auto-refresh every minute
+- 📊 Clean UI with Streamlit
+- 💻 Runs locally or on Streamlit Cloud
 
-2. Run the app
+---
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## 🛠 How to Run It On Your Machine
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Temara55/food-market-app.git
+cd food-market-app
